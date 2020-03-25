@@ -1,4 +1,12 @@
 
+# 大数据学习之路
+
+[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+[![GitHub stars](https://img.shields.io/github/stars/hbulpf/bigdata_path.svg?label=Stars)](https://github.com/hbulpf/bigdata_path)
+[![GitHub watchers](https://img.shields.io/github/watchers/hbulpf/bigdata_path.svg?label=Watchers)](https://github.com/hbulpf/bigdata_path/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/hbulpf/bigdata_path.svg?label=Forks)](https://github.com/hbulpf/bigdata_path/fork)
+
+
 **大数据技能栈**
 
 ![](engineer.jpg)
