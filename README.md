@@ -133,3 +133,15 @@ MATLAB、SPSS、SAS
 1. [尚硅谷大数据](http://www.atguigu.com/bigdata)
 2. [一篇文看懂Hadoop：风雨十年，未来何去何从](http://mp.weixin.qq.com/s?__biz=MzU1NjI0ODkxNw==&mid=100000901&idx=1&sn=fd39f5cc15761c748186d3dfe0340a31&chksm=7bc6bebf4cb137a96fc452ef181e2c0da74109c1af9b243d8bddb8796f34ec7e7aa13b10ef9b&mpshare=1&scene=23&srcid=0329JuU5c4wiKRDWZARTSoe9#rd)
 3. [在Kubernetes平台上运行Hadoop的实践](http://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649697424&idx=1&sn=fbfc282353d2bc15905d6b6d07a3ddf4&chksm=889313f3bfe49ae54cdb4990d5f9e5ec2f7187717126fd457d3f1433fb5c4d69a9b4f5458645&mpshare=1&scene=23&srcid=0409opJ0paCZpvX9aXfd3xat#rd)
+
+
+
+----------------------------------------
+
+**项目规范**
+
+本文使用 [`Markdown`](https://www.markdownguide.org/basic-syntax) 编写, 排版符合[`中文技术文档写作规范`](https://github.com/hbulpf/document-style-guide)。Find Me On [**Github**](https://github.com/hbulpf/bigdata_path) , [**Gitee**](https://gitee.com/sifangcloud/bigdata_path)
+
+**友情贡献**
+
+@[**RunAtWorld**](http://www.github.com/RunAtWorld)  &nbsp; 
